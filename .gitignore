@@ -1,0 +1,11 @@
+ # Files/directories with these names will be ignored regardless how deep they are.
+.classpath
+.idea
+.project
+.settings
+.springBeans
+cloudex.iml
+build
+target
+test-output
+classes
